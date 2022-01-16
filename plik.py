@@ -1,1 +1,1 @@
-"Cześć jestem Wiktoria"
+print("Cześć jestem Wiktoria")
